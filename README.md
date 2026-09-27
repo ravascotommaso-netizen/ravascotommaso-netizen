@@ -14,3 +14,4 @@
 </p>
 
 [Download my Simulink project!](./suspension_shaker_rig.slx)
+[Download the parameters!](./final_par.m)
