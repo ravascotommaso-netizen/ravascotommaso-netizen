@@ -13,4 +13,4 @@
   <img src="https://img.shields.io/badge/SolidWorks-CAD-red" alt="SolidWorks" />
 </p>
 
-[Download my Simulink project!](./nome-del-file.slx)
+[Download my Simulink project!](./suspension_shaker_rig.slx)
